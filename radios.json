@@ -1,0 +1,18 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-07-18",
+  "radios": [
+    {
+      "id": "fala-popular",
+      "nome": "Rádio Fala Popular",
+      "cidade": "Rio Verde",
+      "estado": "GO",
+      "categoria": "Jornalismo e variedades",
+      "host": "stm19.xcast.com.br",
+      "porta": 10792,
+      "caminho": "/",
+      "ssl": false,
+      "ativa": true
+    }
+  ]
+}
