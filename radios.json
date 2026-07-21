@@ -11,16 +11,6 @@
       "porta": 10792,
       "ssl": true
     },
-    {
-      "id": "livre-som",
-      "nome": "Rádio Livre Som",
-      "cidade": "Teste",
-      "estado": "BR",
-      "categoria": "Teste",
-      "host": "painel.livresom.com.br",
-      "caminho": "/radio",
-      "porta": 8010,
-      "ssl": true
-    }
+    
   ]
 }
