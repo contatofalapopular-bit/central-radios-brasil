@@ -10,6 +10,105 @@
       "caminho": "/",
       "porta": 10792,
       "ssl": true
+    },
+    {
+      "id": "Rádio Gruda Fm",
+      "nome": "Rádio Gruda Fm",
+      "cidade": "Mongaguá",
+      "estado": "SP",
+      "categoria": "Musical",
+      "host": "   https://servidor40-3.brlogic.com:7112/live",
+      "caminho": "/",
+      "porta": 7112,
+      "ssl": true
+    },
+    {
+      "id": "Rádio capital do tomate",
+      "nome": "Rádio capital do tomate",
+      "cidade": "Reserva",
+      "estado": "PR",
+      "categoria": "Sertanejo",
+      "host": "https://stm3.colossocast.com.br",
+      "caminho": "/",
+      "porta": 7610,
+      "ssl": true
+    },
+    {
+      "id": "band-news-fm",
+      "nome": "BandNews FM",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "categoria": "Jornalismo",
+      "host": "playerservices.streamtheworld.com",
+      "caminho": "/api/livestream-redirect/BANDNEWSFM.mp3",
+      "porta": 443,
+      "ssl": true
+    },
+    {
+      "id": "jovem-pan-news",
+      "nome": "Jovem Pan News",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "categoria": "Jornalismo",
+      "host": "playerservices.streamtheworld.com",
+      "caminho": "/api/livestream-redirect/JPNEWSAAC.aac",
+      "porta": 443,
+      "ssl": true
+    },
+    {
+      "id": "itatiaia",
+      "nome": "Rádio Itatiaia",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "categoria": "Jornalismo",
+      "host": "playerservices.streamtheworld.com",
+      "caminho": "/api/livestream-redirect/ITAITATIAIAAAC.aac",
+      "porta": 443,
+      "ssl": true
+    },
+    {
+      "id": "gaucha",
+      "nome": "Rádio Gaúcha",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "categoria": "Jornalismo",
+      "host": "playerservices.streamtheworld.com",
+      "caminho": "/api/livestream-redirect/GAUCHAAC.aac",
+      "porta": 443,
+      "ssl": true
+    },
+    {
+      "id": "novabrasil",
+      "nome": "Nova Brasil FM",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "categoria": "MPB",
+      "host": "playerservices.streamtheworld.com",
+      "caminho": "/api/livestream-redirect/NOVABRASILAAC.aac",
+      "porta": 443,
+      "ssl": true
+    },
+    {
+      "id": "antena1",
+      "nome": "Antena 1",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "categoria": "Adulto Contemporâneo",
+      "host": "playerservices.streamtheworld.com",
+      "caminho": "/api/livestream-redirect/ANTENA1AAC.aac",
+      "porta": 443,
+      "ssl": true
+    },
+    {
+      "id": "mix-fm",
+      "nome": "Mix FM",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "categoria": "Pop",
+      "host": "playerservices.streamtheworld.com",
+      "caminho": "/api/livestream-redirect/MIXFM_SPAAC.aac",
+      "porta": 443,
+      "ssl": true
     }
   ]
 }
